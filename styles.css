@@ -1,0 +1,12 @@
+:root {
+  --color-brand:   #0d3b66;   /* primary brand */
+  --color-brand-2: #1f6feb;   /* buttons/links */
+  --color-accent:  #f4a261;   /* accents */
+  --color-accent-2:#e76f51;   /* secondary accent */
+  /* surfaces/text/background */
+  --color-bg:         #ffffff;
+  --color-surface:    #f6f8fa;
+  --color-border:     #e5e7eb;
+  --color-text:       #111827;
+  --color-text-muted: #4b5563;
+}
